@@ -1,6 +1,6 @@
 ✨ DocQuery-AI
 
-📄 Ask your documents questions — and get answers you can trust.
+📄 Ask your documents questions  and get answers you can trust.
 
 DocQuery-AI is a document-based Question Answering project built with LLMs, embeddings, and RAG (Retrieval-Augmented Generation).
 It allows users to ask natural language questions and receive accurate answers strictly grounded in the uploaded documents.
